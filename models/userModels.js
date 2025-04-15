@@ -1,4 +1,4 @@
-import db from "./database/db.js";
+import db from "../database/db.js";
 import bcrypt from "bcrypt";
 import mongoose from "mongoose";
 
