@@ -11,7 +11,7 @@ app.get('/test',(req,res)=>{
     res.send("Test API");
 });
 app.get('/about',(req,res)=>{
-    res.send("Abouts API");
+    res.send("About API");
 });
 
 app.listen(port,()=>{
